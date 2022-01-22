@@ -1,12 +1,3 @@
-@setlocal DisableDelayedExpansion
-@echo off
-
-:: Add custom name in IDM license info, prefer to write it in English and/or numeric in below line after = sign,
-set name=
-
-
-
-
 ::========================================================================================================================================
 
 :: Re-launch the script with x64 process if it was initiated by x86 process on x64 bit Windows
